@@ -154,7 +154,7 @@ nav {
       rgba(0, 0, 0, 0.2),
       rgba(0, 0, 0, 0.8)
     ),
-    url("file:///C:/Users/e450/Desktop/new%20fitness/header.jpg");
+    url("header.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -260,22 +260,22 @@ nav {
 
 .session__card:nth-child(1) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("file:///C:/Users/e450/Desktop/new%20fitness/session-1.jpg");
+    url("session-1.jpg");
 }
 
 .session__card:nth-child(2) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("file:///C:/Users/e450/Desktop/new%20fitness/session-2.jpg");
+    url("session-2.jpg");
 }
 
 .session__card:nth-child(3) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("file:///C:/Users/e450/Desktop/new%20fitness/session-3.jpg");
+    url("session-3.jpg");
 }
 
 .session__card:nth-child(4) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("file:///C:/Users/e450/Desktop/new%20fitness/session-4.jpg");
+    url("session-4.jpg");
 }
 
 .session__card h4 {
@@ -350,7 +350,7 @@ nav {
 
 .membership {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("assets/membership.jpg");
+    url("membership.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
